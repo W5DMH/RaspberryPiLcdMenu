@@ -65,7 +65,7 @@ Written by Alan Aufderheide
 
 GPL v3 license, kindly include text above in any redistribution.
 
-Changes 
-10-Feb-2018: 
-Updated lcdmenu.py to support current 02/2018 Adafruit LCD Plate Library
+Changes                                                                                                                         
+10-Feb-2018:                                                                                                                     
+Updated lcdmenu.py to support current 02/2018 Adafruit LCD Plate Library                                                         
 Several commands changed, I may have missed a few.....no guarantees 
