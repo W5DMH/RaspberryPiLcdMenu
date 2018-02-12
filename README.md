@@ -69,3 +69,7 @@ Changes
 10-Feb-2018:                                                                                                                     
 Updated lcdmenu.py to support current 02/2018 Adafruit LCD Plate Library                                                         
 Several commands changed, I may have missed a few.....no guarantees 
+
+Changes 
+12-Feb-2018:                                                                                                                     Added files and modified some of the existing files (lcdmenu.py and lcdmenu.xml) to create a menu driven beacon that does not require a keyboard. All data entry can be done from the Adafruit LCD Plate . I use it with my extended version of PSK31lx-1.3 to send PSK31 beacons with a Raspberry Pi Zero and a small crystal controlled transeiver. 
+
